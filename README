@@ -1,0 +1,21 @@
+1. Mitä ominaisuuksia olet jo toteuttanut projektiisi?
+
+- Projektissa on tällä hetkellä toteutettu pelin perustoimintoja sekä perusoliot. Käyttöliittymän avulla on toteutettu
+MainWindowin luonti ja sinne lisätty kolme PushButtonia.
+
+2. Käyttöohje
+
+- Ohjelmaa voi ajaa, main tiedostosta käsin, mutta ajaminen tuottaa vain MainWindowin luomisen. Peliä ei siis pysty
+pelaamaan. MainWindowsissa olevan exit game painaminen lopettaa koodin. New Game nappi lisää pelaajat peliin, Load
+Game ei tee vielä mitään.
+
+3. Aikataulu
+
+- Projektiin olen käyttänyt aikaa tähän mennessä noin 10 tuntia. En ole muuttanut suunnitelman aikataulua
+vaan pyrin etenemään sen mukaan.
+
+4. Muuta
+
+- Suunnitelmasta poiketen teen käyttöliittymä ohjelmointia myös alusta alkaen. Olen lisännyt joitain metodeja ja
+nimennyt esimerkiksi kortit hieman eri tavalla kuin suunnitelmassa, mutta muuten olen tehnyt suunnitelman mukaan.
+Ei ole ilmennyt mitään erityisiä ongelmia.
